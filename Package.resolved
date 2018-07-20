@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PaversFRP",
+        "repositoryURL": "https://github.com/KeithPiTsui/PaversFRP.git",
+        "state": {
+          "branch": null,
+          "revision": "261322b29ab6bba1ca46a6e6ca8ccdbf1127fd40",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
